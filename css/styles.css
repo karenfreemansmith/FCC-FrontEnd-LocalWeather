@@ -1,3 +1,19 @@
+body {
+  background-color: black;
+  color: white;
+}
+h1, h2, h3, .center {
+  text-align: center;
+}
+
+input {
+  color: black;
+}
+
 h1 {
-  color: red; //test for css file linked correctly
+  font-size: 5em;
+}
+
+h2 {
+  font-size: 3.5em;
 }

@@ -1,7 +1,7 @@
 # [Local Weather](http://karenfreemansmith.github.io/localweather)
 ![project screenshot](/img/screenshot.jpg)
 
-__Version 1: May 4, 2016__
+__Version 1: June 13, 2016__
 ## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
 
 ### Description
