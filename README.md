@@ -11,22 +11,22 @@ __*Project for [Free Code Camp](https://freecodecamp.com/karenfreemansmith) to u
 * User Story: I can see a different icon or background image (e.g. snowy mountain, hot desert) depending on the weather.
 * User Story: I can push a button to toggle between Fahrenheit and Celsius.
 
-#### Uses:
-* [Fresh Start](http://karenfreemansmith.github.io/freshstart)
+## Technologies Used
+HTML, CSS
 
-### Setup/Installation
-*None required. Clone or download and extract to use*
+## Setup/Installation
+* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* _OR_
+* Clone diectory 
+* Open index.html in your favorite browser
 
-### Support & Contact
-For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
+## Support & Contact
+For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
-### Known Issues
-* Bootstrap-theme is not linked in index.html, add link if needed for project
+## Known Issues
+* None
 
-### Technologies Used
-###### HTML, CSS, Bootstrap, JavaScript, jQuery
-
-### Legal
+## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 **_Karen Freeman-Smith_**
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
